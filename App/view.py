@@ -36,7 +36,6 @@ operación seleccionada.
 #  Ruta a los archivos
 # ___________________________________________________
 
-
 crimefile = 'Boston Crimes//crime-utf8.csv'
 cont = None
 # ___________________________________________________
